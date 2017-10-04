@@ -1,0 +1,43 @@
+APUNTS M1-M6
+############
+
+
+M1 - UF4 Seguretat, rendiment i recursos
+========================================
+
+LAMP - Linux, Apache, MySQL, PHP
+
+WAMP - Windows,...,etc.
+
+Pagines d'on treure aquests paquets:
+
+https://www.turnkeylinux.org/		
+
+http://distrowatch.com/?language=ES 	==> per descarregar SO
+
+
+Copies de seguretat i sistemes tolerants a errors
+*************************************************
+
+- Fiabilitat: La fiabilitat es la mesura de la confiança que es pot tenir en el funcionament correcte d'un sistema o un dels elements que el componen en l'entorn en el que ha estat dissenyat.
+
+Possibles amenaces
+------------------
+
+- Intrusió  ==> Robatori o alteració.
+- Perdua de disponibilitat: Per exemple que s'espatlli el router.
+- Perdua de dades: Per exemple per catastrofes naturals o per manazas.
+- Disponibilitat: Es la continuitat opercional d'un sistema al llarg d'un periode determinat. S'acostuma a representar amb un percentatge, que indica el temps de funcionament etc.
+
+
+Prevenir la disponibilitat i la perdua de dades
+-----------------------------------------------
+
+- Triar components fiables (components de qualitat)
+
+MTBF: Tiempo medio entre fallos (Mean Time Between Failures).
+CRC: Codi de Rodundancia Ciclica.
+
+- Emmascarar fallades: Es una manera de controlar un error o fallada.
+- Tolerància a errades: La millor manera es la Redundancia de Hardware o Software.
+- Copia de seguretat: Copiar integrament la informació fora del sistema.
